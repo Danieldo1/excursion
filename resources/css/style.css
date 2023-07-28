@@ -18,10 +18,15 @@ body{
 .sub--header{
     color: grey;
     font-size: 21px;
-    
+
 }
 
 .links{
     font-size: 16px;
     color: aquamarine;
+}
+.footer{
+    color: grey;
+    font-size: 21px;
+    text-align: right;
 }
